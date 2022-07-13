@@ -1,0 +1,26 @@
+.logo-img {
+  width: 120px;
+  height: 120px;
+}
+
+#currentWord span {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+#letters {
+  color: white;
+  letter-spacing: 5px;
+  text-align: center;
+  width: 400px;
+}
+
+.imgTeam {
+  -webkit-filter: blur(20px);
+          filter: blur(20px);
+}
+
+.input {
+  display: none;
+}
+/*# sourceMappingURL=style.css.map */
